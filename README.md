@@ -21,4 +21,6 @@ In informed search, each iteration learns from the last, the results of one mode
 The most popular informed search method is Bayesian Optimization. Bayesian Optimization was originally designed to optimize black-box functions. 
 
 In this post, we will focus on two methods for automated hyperparameter tuning, Grid Search and Bayesian optimization.
-We will optimize the hyperparameter of a random forest machine using the tune library and other required packages (workflows, dials. ..). 
+We will optimize the hyperparameter of a random forest machine using the tune library and other required packages (workflows, dials. ..).
+
+Telco Churn Dataset: https://www.kaggle.com/pangkw/telco-churn
